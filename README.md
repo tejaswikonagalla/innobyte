@@ -20,7 +20,7 @@ This project is a simple command line application that helps users to manage the
 
   **1)Add Transaction** - The transaction will be added to the database upon specifying the transaction type(income/expense), category(salary/food/rent etc.,), amount, date.If the transaction type is income, then transaction will be automatically saved into the database.If the transaction type is expense, then at first checking will be done to see if there is any budget that is set already set for that particular category in the month specified under date. If the expense exceeds the budget for that month under the category specified, then an alert will be generated and the transaction will not be added otherwise the transaction will be added to the database.
 
-  **2)View Trasactions** - It displays all transactions for the logged-in user, categorized by type and date.
+  **2)View Transactions** - It displays all transactions for the logged-in user, categorized by type and date.
   
   **3)Update Transaction** - Unless there is a restriction of budget under expense category, any transaction can be updated by specifying it's ID, new transaction type/new category/new amount/new date.
   
