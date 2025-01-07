@@ -33,4 +33,3 @@ This project is a simple command line application that helps users to manage the
   **7)Check Budget** - The budget amount, category, month and year for which budget has been set can be checked by choosing this feature.
   
   **8)Logout** - This will aid in returning to the main menu.
-  
